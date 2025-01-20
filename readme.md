@@ -32,11 +32,7 @@ This solution aims to enhance road safety, minimize vehicle damage, and prevent 
    ```bash
    pip install -r requirements.txt
    ```
-4. Set up environment variables if needed:
-   ```bash
-   export API_KEY=your_api_key
-   ```
-5. Run the application:
+4. Run the application:
    ```bash
    python main.py
    ```
