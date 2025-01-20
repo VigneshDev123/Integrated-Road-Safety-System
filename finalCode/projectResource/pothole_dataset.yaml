@@ -1,0 +1,5 @@
+train: C:\Users\ramak\Downloads\Pothole Dataset
+val: C:\Users\ramak\Downloads\val
+
+nc: 1  # number of classes (1 for pothole)
+names: ['pothole']  # class names
